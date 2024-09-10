@@ -3,7 +3,6 @@
 // Intro to C
 // section 5 
 //
-
 // this assignment took forever and I don't even know if I got it 100% (prob not), please send feedback or DM for any improvements 
 // between work, school, band, this really stressed me out and took me a few days and some days over the due date to do aagh
 // tdlr: I sucked as student these first few weeks and I'll be better next time.
