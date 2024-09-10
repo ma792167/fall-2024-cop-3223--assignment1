@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include <math.h>
 
-// don't forget gcc fracturingDOTc/fracturing.c -lm && ./a.out
+// don't forget gcc fracturing.c -lm && ./a.out ./a.out < test_inputs.txt
 
 
 double calculateDistance() {
